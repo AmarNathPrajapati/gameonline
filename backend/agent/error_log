@@ -1,0 +1,4 @@
+[31-Aug-2022 18:22:10 Asia/Kolkata] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/syvyjuld/gamonline.biz/backend/agent/new_application.php on line 62
+[31-Aug-2022 18:22:10 Asia/Kolkata] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/syvyjuld/gamonline.biz/backend/agent/new_application.php on line 66
+[31-Aug-2022 18:31:29 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/syvyjuld/gamonline.biz/backend/agent/application_update.php on line 10
+[31-Aug-2022 18:34:27 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/syvyjuld/gamonline.biz/backend/agent/application_update.php on line 10

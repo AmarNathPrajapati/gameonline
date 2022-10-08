@@ -1,0 +1,2 @@
+[29-Aug-2022 02:46:16 Asia/Kolkata] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syvyjuld/gleamrecruits.ca/backend/login_signup/sign_up.php on line 16
+[29-Aug-2022 02:46:21 Asia/Kolkata] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/syvyjuld/gleamrecruits.ca/backend/login_signup/sign_up.php on line 16
